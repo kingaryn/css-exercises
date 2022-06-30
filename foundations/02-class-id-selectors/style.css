@@ -1,0 +1,20 @@
+/* styles.cc */
+#idone{
+    color:blue;
+    font-size: 36px;
+}
+#idtwo{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+.one{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+.two{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
